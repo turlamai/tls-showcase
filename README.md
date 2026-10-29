@@ -2,7 +2,7 @@
 
 Complete, runnable Racket implementations of **all ten chapters** of *The Little Schemer* — from `lat?` to the Y combinator and a Scheme interpreter — with 204 rackunit checks keeping every function honest.
 
-[![CI](https://github.com/turinglambdaai/tls-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/tls-showcase/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![CI](https://github.com/turlamai/tls-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/tls-showcase/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 **English** · [中文](README.zh-CN.md)
 
@@ -26,7 +26,7 @@ Each chapter is a standalone file you can open and run on its own; only Chapter 
 ## Quick start
 
 ```bash
-git clone https://github.com/turinglambdaai/tls-showcase.git
+git clone https://github.com/turlamai/tls-showcase.git
 cd tls-showcase
 raco test .        # run all 204 checks
 ```
