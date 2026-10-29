@@ -2,7 +2,7 @@
 
 *The Little Schemer* 全部十章的完整可运行 Racket 实现——从 `lat?` 一路到 Y 组合子与 Scheme 解释器——由 204 个 rackunit 检查保证每个函数都经得起验证。
 
-[![CI](https://github.com/turinglambdaai/tls-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/tls-showcase/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![CI](https://github.com/turlamai/tls-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/tls-showcase/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 [English](README.md) · **中文**
 
@@ -26,7 +26,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/turinglambdaai/tls-showcase.git
+git clone https://github.com/turlamai/tls-showcase.git
 cd tls-showcase
 raco test .        # 运行全部 204 个检查
 ```
